@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<host>
+    <ip_addr>192.168.1.1</ip_addr>
+    <port>3306</port>
+</host>
